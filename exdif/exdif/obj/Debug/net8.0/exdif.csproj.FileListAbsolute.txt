@@ -1,0 +1,14 @@
+E:\CSharp\exdif\exdif\bin\Debug\net8.0\exdif.exe
+E:\CSharp\exdif\exdif\bin\Debug\net8.0\exdif.deps.json
+E:\CSharp\exdif\exdif\bin\Debug\net8.0\exdif.runtimeconfig.json
+E:\CSharp\exdif\exdif\bin\Debug\net8.0\exdif.dll
+E:\CSharp\exdif\exdif\bin\Debug\net8.0\exdif.pdb
+E:\CSharp\exdif\exdif\obj\Debug\net8.0\exdif.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\exdif\exdif\obj\Debug\net8.0\exdif.AssemblyInfoInputs.cache
+E:\CSharp\exdif\exdif\obj\Debug\net8.0\exdif.AssemblyInfo.cs
+E:\CSharp\exdif\exdif\obj\Debug\net8.0\exdif.csproj.CoreCompileInputs.cache
+E:\CSharp\exdif\exdif\obj\Debug\net8.0\exdif.dll
+E:\CSharp\exdif\exdif\obj\Debug\net8.0\refint\exdif.dll
+E:\CSharp\exdif\exdif\obj\Debug\net8.0\exdif.pdb
+E:\CSharp\exdif\exdif\obj\Debug\net8.0\exdif.genruntimeconfig.cache
+E:\CSharp\exdif\exdif\obj\Debug\net8.0\ref\exdif.dll
